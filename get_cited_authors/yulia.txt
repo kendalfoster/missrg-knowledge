@@ -1,0 +1,1018 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chamberland, S
+   Timofeeva, Y
+   Evstratova, A
+   Volynski, K
+   Toth, K
+AF Chamberland, Simon
+   Timofeeva, Yulia
+   Evstratova, Alesya
+   Volynski, Kirill
+   Toth, Katalin
+TI Action potential counting at giant mossy fiber terminals gates
+   information transfer in the hippocampus
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE short-term plasticity; presynaptic release; mossy fiber; hippocampus
+ID SHORT-TERM FACILITATION; CELLS IN-VIVO; CA2+ CHANNELS; GRANULE CELLS;
+   SYNAPTIC FACILITATION; RELEASE; SYNAPSES; PLASTICITY; CALMODULIN;
+   BOUTONS
+AB Neuronal communication relies on action potential discharge, with the frequency and the temporal precision of action potentials encoding information. Hippocampal mossy fibers have long been recognized as conditional detonators owing to prominent short-term facilitation of glutamate release displayed during granule cell burst firing. However, the spiking patterns required to trigger action potential firing in CA3 pyramidal neurons remain poorly understood. Here, we show that glutamate release from mossy fiber terminals triggers action potential firing of the target CA3 pyramidal neurons independently of the average granule cell burst frequency, a phenomenon we term action potential counting. We find that action potential counting in mossy fibers gates glutamate release over a broad physiological range of frequencies and action potential numbers. Using rapid Ca2+ imaging we also show that the magnitude of evoked Ca2+ influx stays constant during action potential trains and that accumulated residual Ca2+ is gradually extruded on a time scale of several hundred milliseconds. Using experimentally constrained 3D model of presynaptic Ca2+ influx, buffering, and diffusion, and a Monte Carlo model of Ca2+-activated vesicle fusion, we argue that action potential counting at mossy fiber boutons can be explained by a unique interplay between Ca2+ dynamics and buffering at release sites. This is largely determined by the differential contribution of major endogenous Ca2+ buffers calbindin-D-28K and calmodulin and by the loose coupling between presynaptic voltage-gated Ca2+ channels and release sensors and the relatively slow Ca2+ extrusion rate. Taken together, our results identify a previously unexplored information-coding mechanism in the brain.
+C1 [Chamberland, Simon; Evstratova, Alesya; Toth, Katalin] Univ Laval, CERVO Brain Res Ctr, Dept Psychiat & Neurosci, Quebec City, PQ G1J 2G3, Canada.
+   [Timofeeva, Yulia] Univ Warwick, Dept Comp Sci, Coventry, W Midlands, England.
+   [Timofeeva, Yulia] Univ Warwick, Ctr Complex Sci, Coventry CV4 7AL, W Midlands, England.
+   [Timofeeva, Yulia; Volynski, Kirill] UCL, Inst Neurol, London WC1E 6BT, England.
+RP Toth, K (corresponding author), Univ Laval, CERVO Brain Res Ctr, Dept Psychiat & Neurosci, Quebec City, PQ G1J 2G3, Canada.; Volynski, K (corresponding author), UCL, Inst Neurol, London WC1E 6BT, England.
+EM k.volynski@ucl.ac.uk; katalin.toth@fmed.ulaval.ca
+RI Timofeeva, Yulia/Z-1618-2019
+OI Timofeeva, Yulia/0000-0003-3178-7830; Toth, Katalin/0000-0002-2300-4536;
+   Volynski, Kirill/0000-0001-8208-1905; Chamberland,
+   Simon/0000-0003-2061-4109
+FU Canadian Institutes of Health ResearchCanadian Institutes of Health
+   Research (CIHR) [MOP-81142]; Natural Sciences and Engineering Research
+   Council of Canada (NSERC)Natural Sciences and Engineering Research
+   Council of Canada (NSERC) [RGPIN-2015-06266]; NSERCNatural Sciences and
+   Engineering Research Council of Canada (NSERC); CTRN; Medical Research
+   CouncilUK Research & Innovation (UKRI)Medical Research Council UK
+   (MRC)European Commission; Wellcome TrustWellcome TrustEuropean
+   Commission
+FX We are grateful to D. M. Kullmann for reading the manuscript and
+   providing feedback. We thank Gyorgy Buzsaki for the in vivo granule cell
+   firing data. The study was supported by Canadian Institutes of Health
+   Research Grant MOP-81142 and Natural Sciences and Engineering Research
+   Council of Canada (NSERC) Grant RGPIN-2015-06266 (to K.T.), NSERC and
+   CTRN PhD fellowships (to S.C.), and by the Medical Research Council and
+   the Wellcome Trust (K.V.).
+CR Abbott LF, 2004, NATURE, V431, P796, DOI 10.1038/nature03010
+   Acsady L, 1998, J NEUROSCI, V18, P3386
+   Adrian ED, 1926, J PHYSIOL-LONDON, V61, P151, DOI 10.1113/jphysiol.1926.sp002281
+   ALEXANDER KA, 1988, J BIOL CHEM, V263, P7544
+   AMARAL DG, 1981, J COMP NEUROL, V195, P51, DOI 10.1002/cne.901950106
+   ANDERSEN P, 1971, EXP BRAIN RES, V13, P222
+   Bazelot M, 2016, J PHYSIOL-LONDON, V594, P2565, DOI 10.1113/JP271644
+   Bischofberger J, 2002, J NEUROSCI, V22, P10593
+   Bohm J, 2016, CURR BIOL, V26, P286, DOI 10.1016/j.cub.2015.11.057
+   CASTILLO PE, 1994, NEURON, V12, P261, DOI 10.1016/0896-6273(94)90269-0
+   Chamberland S, 2017, J NEUROSCI, V37, P4913, DOI 10.1523/JNEUROSCI.0159-17.2017
+   Chamberland S, 2014, J NEUROSCI, V34, P11032, DOI 10.1523/JNEUROSCI.0847-14.2014
+   DELCASTILLO J, 1954, J PHYSIOL-LONDON, V124, P560, DOI 10.1113/jphysiol.1954.sp005129
+   Emptage NJ, 2001, NEURON, V29, P197, DOI 10.1016/S0896-6273(01)00190-8
+   Ermolyuk YS, 2013, NAT NEUROSCI, V16, P1754, DOI 10.1038/nn.3563
+   Geiger JRP, 2000, NEURON, V28, P927, DOI 10.1016/S0896-6273(00)00164-1
+   Gerstner W, 1997, P NATL ACAD SCI USA, V94, P12740, DOI 10.1073/pnas.94.24.12740
+   Henze DA, 2001, NEUROSCIENCE, V105, P121, DOI 10.1016/S0306-4522(01)00167-1
+   Henze DA, 2002, NAT NEUROSCI, V5, P790, DOI 10.1038/nn887
+   Jackman SL, 2016, NATURE, V529, P88, DOI 10.1038/nature16507
+   Klausnitzer J, 2008, J NEUROSCI, V28, P4836, DOI 10.1523/JNEUROSCI.3729-07.2008
+   Kumar V, 2013, SCI REP-UK, V3, DOI 10.1038/srep01392
+   Lauri SE, 2003, NEURON, V39, P327, DOI 10.1016/S0896-6273(03)00369-6
+   Lou XL, 2005, NATURE, V435, P497, DOI 10.1038/nature03568
+   Pelkey KA, 2006, NEURON, V52, P497, DOI 10.1016/j.neuron.2006.08.032
+   Pernia-Andrade AJ, 2014, NEURON, V81, P140, DOI 10.1016/j.neuron.2013.09.046
+   Pilz GA, 2016, J NEUROSCI, V36, P7407, DOI 10.1523/JNEUROSCI.3065-15.2016
+   Ramon, 1917, RECUERDOS DE MI VIDA
+   Rebola N, 2008, NEURON, V57, P121, DOI 10.1016/j.neuron.2007.11.023
+   Regehr WG, 2012, CSH PERSPECT BIOL, V4, DOI 10.1101/cshperspect.a005702
+   Sakaba T, 2001, NEURON, V32, P1119, DOI 10.1016/S0896-6273(01)00543-8
+   Salin PA, 1996, P NATL ACAD SCI USA, V93, P13304, DOI 10.1073/pnas.93.23.13304
+   Scott R, 2006, J NEUROSCI, V26, P7071, DOI 10.1523/JNEUROSCI.0946-06.2006
+   Stein RB, 2005, NAT REV NEUROSCI, V6, P389, DOI 10.1038/nrn1668
+   Taschenberger H, 2016, P NATL ACAD SCI USA, V113, pE4548, DOI 10.1073/pnas.1606383113
+   Timofeeva Y, 2015, FRONT CELL NEUROSCI, V9, DOI 10.3389/fncel.2015.00239
+   Toth K, 2000, J NEUROSCI, V20, P8279, DOI 10.1523/JNEUROSCI.20-22-08279.2000
+   Tsodyks MV, 1997, P NATL ACAD SCI USA, V94, P719, DOI 10.1073/pnas.94.2.719
+   Urban NN, 2001, HIPPOCAMPUS, V11, P408, DOI 10.1002/hipo.1055
+   Vyleta NP, 2016, ELIFE, V5, DOI 10.7554/eLife.17977
+   Vyleta NP, 2014, SCIENCE, V343, P665, DOI 10.1126/science.1244811
+NR 41
+TC 6
+Z9 6
+U1 0
+U2 2
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUL 10
+PY 2018
+VL 115
+IS 28
+BP 7434
+EP 7439
+DI 10.1073/pnas.1720659115
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA GM3ZE
+UT WOS:000438050900085
+PM 29946034
+OA Green Published, Other Gold
+DA 2021-06-04
+ER
+
+PT J
+AU Lu, YH
+   Timofeeva, Y
+AF Lu Yihe
+   Timofeeva, Yulia
+TI Response functions for electrically coupled neuronal network: a method
+   of local point matching and its applications
+SO BIOLOGICAL CYBERNETICS
+LA English
+DT Article
+DE Dendrites; Gap junctions; Network dynamics; Sum-over-trips
+ID DENDRITIC CABLE; GAP-JUNCTIONS
+AB Neuronal networks connected by electrical synapses, also referred to as gap junctions, are present throughout the entire central nervous system. Many instances of gap-junctional coupling are formed between dendritic arbours of individual cells, and these dendro-dendritic gap junctions are known to play an important role in mediating various brain rhythms in both normal and pathological states. The dynamics of such neuronal networks modelled by passive or quasi-active (resonant) membranes can be described by the Green's function which provides the fundamental input-output relationships of the entire network. One of the methods for calculating this response function is the so-called 'sum-over-trips' framework which enables the construction of the Green's function for an arbitrary network as a convergent infinite series solution. Here we propose an alternative and computationally efficient approach for constructing the Green's functions on dendro-dendritic gap junction-coupled neuronal networks which avoids any infinite terms in the solutions. Instead, the Green's function is constructed from the solution of a system of linear algebraic equations. We apply this new method to a number of systems including a simple single cell model and two-cell neuronal networks. We also demonstrate that the application of this novel approach allows one to reduce a model with complex dendritic formations to an equivalent model with a much simpler morphological structure.
+C1 [Lu Yihe; Timofeeva, Yulia] Univ Warwick, Ctr Complex Sci, Coventry CV4 7AL, W Midlands, England.
+   [Timofeeva, Yulia] Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+RP Timofeeva, Y (corresponding author), Univ Warwick, Ctr Complex Sci, Coventry CV4 7AL, W Midlands, England.; Timofeeva, Y (corresponding author), Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+EM yihe.lu@warwick.ac.uk; y.timofeeva@warwick.ac.uk
+RI Timofeeva, Yulia/Z-1618-2019
+OI Timofeeva, Yulia/0000-0003-3178-7830; LU, YIHE/0000-0002-1615-4915
+CR ABBOTT LF, 1992, PHYSICA A, V185, P343, DOI 10.1016/0378-4371(92)90474-5
+   ABBOTT LF, 1991, BIOL CYBERN, V66, P49, DOI 10.1007/BF00196452
+   CAJAL SRY, 1891, REV CIENCIAS MED BAR, V22, P23
+   Caudron Q, 2012, J MATH NEUROSCI, V2, DOI 10.1186/2190-8567-2-11
+   Coombes S, 2007, BIOL CYBERN, V97, P137, DOI 10.1007/s00422-007-0161-5
+   Coombes S, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.028102
+   Cuntz H, 2014, COMPUTING DENDRITE S
+   Dere E, 2013, GAP JUNCTIONS IN THE BRAIN: PHYSIOLOGICAL AND PATHOLOGICAL ROLES, P1
+   HODGKIN AL, 1952, J PHYSIOL-LONDON, V117, P500, DOI 10.1113/jphysiol.1952.sp004764
+   KOCH C, 1984, BIOL CYBERN, V50, P15, DOI 10.1007/BF00317936
+   MAURO A, 1970, J GEN PHYSIOL, V55, P497, DOI 10.1085/jgp.55.4.497
+   Migliore M, 2005, J COMPUT NEUROSCI, V18, P151, DOI 10.1007/s10827-005-6556-1
+   SEGEV I, 1989, METHODS NEURONAL MOD
+   Segev I, 1995, THEORETICAL FDN DEND
+   Sohl G, 2005, NAT REV NEUROSCI, V6, P191, DOI 10.1038/nrn1627
+   Stuart G., 2007, DENDRITES
+   Timofeeva Y, 2010, PHYSICA D, V239, P494, DOI 10.1016/j.physd.2010.01.004
+   Timofeeva Y, 2014, COMPUTING DENDRITE S, P449
+   Timofeeva Y, 2006, J COMPUT NEUROSCI, V21, P293, DOI 10.1007/s10827-006-8776-4
+   Timofeeva Y, 2013, J MATH NEUROSCI, V3, DOI 10.1186/2190-8567-3-15
+NR 20
+TC 2
+Z9 2
+U1 0
+U2 4
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0340-1200
+EI 1432-0770
+J9 BIOL CYBERN
+JI Biol. Cybern.
+PD JUN
+PY 2016
+VL 110
+IS 2-3
+BP 117
+EP 133
+DI 10.1007/s00422-016-0681-y
+PG 17
+WC Computer Science, Cybernetics; Neurosciences
+SC Computer Science; Neurosciences & Neurology
+GA DO7BA
+UT WOS:000377936000002
+PM 26994016
+OA Green Published, Other Gold
+DA 2021-06-04
+ER
+
+PT J
+AU Timofeeva, Y
+   Volynski, KE
+AF Timofeeva, Yulia
+   Volynski, Kirill E.
+TI Calmodulin as a major calcium buffer shaping vesicular release and
+   short-term synaptic plasticity: facilitation through buffer dislocation
+SO FRONTIERS IN CELLULAR NEUROSCIENCE
+LA English
+DT Article
+DE synaptic transmission; synaptic vesicles; short-term plasticity; calcium
+   channels; modeling biological systems
+ID PAIRED-PULSE FACILITATION; TRANSMITTER RELEASE; CA2+ CHANNELS; P/Q-TYPE;
+   SATURATION; SYNAPSES; IDENTIFICATION; MODULATION; CALBINDIN; TERMINALS
+AB Action potential-dependent release of synaptic vesicles and short-term synaptic plasticity are dynamically regulated by the endogenous Ca2+ buffers that shape [Ca2+] profiles within a presynaptic bouton. Calmodulin is one of the most abundant presynaptic proteins and it binds Ca2+ faster than any other characterized endogenous neuronal Ca2+ buffer. Direct effects of calmodulin on fast presynaptic Ca2+ dynamics and vesicular release however have not been studied in detail. Using experimentally constrained three-dimensional modeling of Ca2+ influx-exocytosis coupling at small excitatory synapses we show that, at physiologically relevant concentrations, Ca2+ buffering by calmodulin plays a dominant role in inhibiting vesicular release and in modulating short-term synaptic plasticity. We also propose a novel and potentially powerful mechanism for short-term facilitation based on Ca2+-dependent dynamic dislocation of calmodulin molecules from the plasma membrane within the active zone.
+C1 [Timofeeva, Yulia] Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+   [Timofeeva, Yulia] Univ Warwick, Ctr Complex Sci, Coventry CV4 7AL, W Midlands, England.
+   [Volynski, Kirill E.] UCL, Inst Neurol, London WC1N 3BG, England.
+RP Volynski, KE (corresponding author), UCL, Inst Neurol, Queen Sq, London WC1N 3BG, England.
+EM k.volynski@ucl.ac.uk
+RI Timofeeva, Yulia/Z-1618-2019
+OI Timofeeva, Yulia/0000-0003-3178-7830; Volynski,
+   Kirill/0000-0001-8208-1905
+FU Welcome TrustWellcome Trust; NIH Grant from National Institute for
+   General Medical Sciences [P41 GM103313]; NATIONAL INSTITUTE OF GENERAL
+   MEDICAL SCIENCESUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of General Medical Sciences (NIGMS) [P41GM103313] Funding Source: NIH
+   RePORTER; Biotechnology and Biological Sciences Research CouncilUK
+   Research & Innovation (UKRI)Biotechnology and Biological Sciences
+   Research Council (BBSRC) [BB/H011900/1] Funding Source: researchfish;
+   Medical Research CouncilUK Research & Innovation (UKRI)Medical Research
+   Council UK (MRC)European Commission [MR/M013812/1] Funding Source:
+   researchfish
+FX This study was supported by the Welcome Trust. The Virtual Cell
+   simulation environment is supported by NIH Grant Number P41 GM103313
+   from the National Institute for General Medical Sciences. We are
+   grateful to J. Jepson, S. Krishnakumar, D. M. Kullmann, I. Pavlov, and
+   S. Schorge for critical reading of the manuscript.
+CR ALEXANDER KA, 1988, J BIOL CHEM, V263, P7544
+   Ariel P, 2010, FRONT NEURAL CIRCUIT, V4, DOI 10.3389/fncir.2010.00018
+   Ben-Johny M, 2014, J GEN PHYSIOL, V143, P679, DOI 10.1085/jgp.201311153
+   Berggard T, 2002, J BIOL CHEM, V277, P16662, DOI 10.1074/jbc.M200415200
+   Blatow M, 2003, NEURON, V38, P79, DOI 10.1016/S0896-6273(03)00196-X
+   Bornschein G, 2013, J PHYSIOL-LONDON, V591, P3355, DOI 10.1113/jphysiol.2013.254128
+   Dobrunz LE, 1999, NEURON, V22, P157, DOI 10.1016/S0896-6273(00)80687-X
+   Ermolyuk YS, 2013, NAT NEUROSCI, V16, P1754, DOI 10.1038/nn.3563
+   Ermolyuk YS, 2012, PLOS BIOL, V10, DOI 10.1371/journal.pbio.1001396
+   Faas GC, 2011, NAT NEUROSCI, V14, P301, DOI 10.1038/nn.2746
+   Gaertner TR, 2004, J BIOL CHEM, V279, P39374, DOI 10.1074/jbc.M405352200
+   Hines ML, 1997, NEURAL COMPUT, V9, P1179, DOI 10.1162/neco.1997.9.6.1179
+   Hoffman L, 2014, J BIOL CHEM, V289, P14644, DOI 10.1074/jbc.M114.560656
+   Holderith N, 2012, NAT NEUROSCI, V15, P988, DOI 10.1038/nn.3137
+   Jackson MB, 2003, J NEUROSCI, V23, P1612
+   Kumar V, 2013, SCI REP-UK, V3, DOI 10.1038/srep01392
+   Li LY, 2007, J NEUROSCI, V27, P13420, DOI 10.1523/JNEUROSCI.1709-07.2007
+   Lipstein N, 2013, NEURON, V79, P82, DOI 10.1016/j.neuron.2013.05.011
+   Lou XL, 2005, NATURE, V435, P497, DOI 10.1038/nature03568
+   Matveev V, 2004, BIOPHYS J, V86, P2691, DOI 10.1016/S0006-3495(04)74324-6
+   Matveev V, 2006, J NEUROPHYSIOL, V96, P3389, DOI 10.1152/jn.00101.2006
+   Meinrenken CJ, 2002, J NEUROSCI, V22, P1648, DOI 10.1523/JNEUROSCI.22-05-01648.2002
+   MINTZ IM, 1995, NEURON, V15, P675, DOI 10.1016/0896-6273(95)90155-8
+   Muller A, 2005, J NEUROSCI, V25, P558, DOI 10.1523/JNEUROSCI.3799-04.2005
+   Murthy VN, 2001, NEURON, V32, P673, DOI 10.1016/S0896-6273(01)00500-1
+   Nagerl UV, 2000, BIOPHYS J, V79, P3009
+   Nakamura Y, 2015, NEURON, V85, P145, DOI 10.1016/j.neuron.2014.11.019
+   Neher E, 1998, CELL CALCIUM, V24, P345, DOI 10.1016/S0143-4160(98)90058-6
+   OKEEFE J, 1971, BRAIN RES, V34, P171, DOI 10.1016/0006-8993(71)90358-1
+   Pang ZP, 2010, J NEUROSCI, V30, P4132, DOI 10.1523/JNEUROSCI.3129-09.2010
+   Putkey JA, 2003, J BIOL CHEM, V278, P49667, DOI 10.1074/jbc.C300372200
+   Reid CA, 1998, J NEUROSCI, V18, P2849
+   Rozov A, 2001, J PHYSIOL-LONDON, V531, P807, DOI 10.1111/j.1469-7793.2001.0807h.x
+   Sabatini BL, 1998, BIOPHYS J, V74, P1549, DOI 10.1016/S0006-3495(98)77867-1
+   Schikorski T, 1997, J NEUROSCI, V17, P5858
+   Schneider R, 2015, NEURON, V86, P672, DOI 10.1016/j.neuron.2015.03.050
+   Scott R, 2006, J NEUROSCI, V26, P7071, DOI 10.1523/JNEUROSCI.0946-06.2006
+   Sheng JS, 2012, NAT NEUROSCI, V15, P998, DOI 10.1038/nn.3129
+   Sun T, 2010, J NEUROSCI, V30, P11838, DOI 10.1523/JNEUROSCI.1481-10.2010
+   Villarroel A, 2014, J MOL BIOL, V426, P2717, DOI 10.1016/j.jmb.2014.05.016
+   WU LG, 1994, J NEUROSCI, V14, P5613
+   Xia ZG, 2005, NAT REV NEUROSCI, V6, P267, DOI 10.1038/nrn1647
+NR 42
+TC 7
+Z9 7
+U1 0
+U2 3
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1662-5102
+J9 FRONT CELL NEUROSCI
+JI Front. Cell. Neurosci.
+PD JUL 1
+PY 2015
+VL 9
+AR 239
+DI 10.3389/fncel.2015.00239
+PG 13
+WC Neurosciences
+SC Neurosciences & Neurology
+GA CM4SA
+UT WOS:000357673800001
+PM 26190970
+OA DOAJ Gold, Green Published
+DA 2021-06-04
+ER
+
+PT J
+AU Ermolyuk, YS
+   Alder, FG
+   Surges, R
+   Pavlov, IY
+   Timofeeva, Y
+   Kullmann, DM
+   Volynski, KE
+AF Ermolyuk, Yaroslav S.
+   Alder, Felicity G.
+   Surges, Rainer
+   Pavlov, Ivan Y.
+   Timofeeva, Yulia
+   Kullmann, Dimitri M.
+   Volynski, Kirill E.
+TI Differential triggering of spontaneous glutamate release by P/Q-, N- and
+   R-type Ca2+ channels
+SO NATURE NEUROSCIENCE
+LA English
+DT Article
+ID EXCITATORY SYNAPTIC CURRENTS; TRANSMITTER RELEASE; NEUROTRANSMITTER
+   RELEASE; ACTIVE ZONE; CALCIUM-CHANNELS; NERVE-TERMINALS; PYRAMIDAL
+   CELLS; GRANULE CELL; SYNAPSES; MINIATURE
+AB The role of voltage-gated Ca2+ channels (VGCCs) in spontaneous miniature neurotransmitter release is incompletely understood. We found that stochastic opening of P/Q-, N- and R-type VGCCs accounts for -50% of all spontaneous glutamate release at rat cultured hippocampal synapses, and that R-type channels have a far greater role in spontaneous than in action potentialevoked exocytosis. VGCC-dependent miniature neurotransmitter release (minis) showed similar sensitivity to presynaptic Ca2+ chelation as evoked release, arguing for direct triggering of spontaneous release by transient spatially localized Ca2+ domains. Experimentally constrained three-dimensional diffusion modeling of Ca2+ influx-exocytosis coupling was consistent with clustered distribution of VGCCs in the active zone of small hippocampal synapses and revealed that spontaneous VGCCs openings can account for the experimentally observed VGCC-dependent minis, although single channel openings triggered release with low probability. Uncorrelated stochastic VGCC opening is therefore a major trigger for spontaneous glutamate release, with differential roles for distinct channel subtypes.
+C1 [Ermolyuk, Yaroslav S.; Alder, Felicity G.; Surges, Rainer; Pavlov, Ivan Y.; Kullmann, Dimitri M.; Volynski, Kirill E.] UCL, Inst Neurol, London, England.
+   [Timofeeva, Yulia] Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+   [Timofeeva, Yulia] Univ Warwick, Ctr Complex Sci, Coventry CV4 7AL, W Midlands, England.
+RP Volynski, KE (corresponding author), UCL, Inst Neurol, Mortimer St, London, England.
+EM k.volynski@ucl.ac.uk
+RI Timofeeva, Yulia/Z-1618-2019; Pavlov, Ivan/B-5939-2008; Kullmann,
+   Dimitri M/A-3162-2009
+OI Timofeeva, Yulia/0000-0003-3178-7830; Pavlov, Ivan/0000-0002-9559-4600;
+   Kullmann, Dimitri M/0000-0001-6696-3545; Pavlov,
+   Ivan/0000-0003-1266-6988; Surges, Rainer/0000-0002-3177-8582; Volynski,
+   Kirill/0000-0001-8208-1905
+FU Medical Research CouncilUK Research & Innovation (UKRI)Medical Research
+   Council UK (MRC)European Commission; Wellcome TrustWellcome
+   TrustEuropean Commission; Biotechnology and Biological Sciences Research
+   CouncilUK Research & Innovation (UKRI)Biotechnology and Biological
+   Sciences Research Council (BBSRC); German Research FoundationGerman
+   Research Foundation (DFG); Brain Research Trust; Special Trustees of the
+   University College London Hospitals National Health Service Foundation
+   Trust; Epilepsy Research UK; Worshipful Company of Pewterers; European
+   Research CouncilEuropean Research Council (ERC)European Commission;
+   Biotechnology and Biological Sciences Research CouncilUK Research &
+   Innovation (UKRI)Biotechnology and Biological Sciences Research Council
+   (BBSRC) [BB/H011900/1] Funding Source: researchfish; Medical Research
+   CouncilUK Research & Innovation (UKRI)Medical Research Council UK
+   (MRC)European Commission [G0801316, G0600089, G0200373, G116/147,
+   MR/K000608/1] Funding Source: researchfish; Action Medical Research
+   [1725] Funding Source: researchfish; Epilepsy Research UK [F0905]
+   Funding Source: researchfish
+FX We are grateful to L. Savtchenko for help with stochastic VGCC modeling,
+   to P. Volynslcy for help with Monte-Carlo simulations of VGCC
+   distributions in the active zone, to M. Casio for help with neuronal
+   cultures, to V. Uebele (Merck) for the gift of TTA-P2, and to Y.
+   Ushkaryov, D. Rusakov, C. Henneberger and M. Walker for critical reading
+   of the manuscript. The study was supported by the Medical Research
+   Council, the Wellcome Trust, the Biotechnology and Biological Sciences
+   Research Council, the German Research Foundation, the Brain Research
+   Trust, the European Research Council, the Special Trustees of the
+   University College London Hospitals National Health Service Foundation
+   Trust, Epilepsy Research UK, and The Worshipful Company of Pewterers.
+CR Alle H, 2008, CURR OPIN NEUROBIOL, V18, P314, DOI 10.1016/j.conb.2008.08.006
+   Ariel P, 2010, FRONT NEURAL CIRCUIT, V4, DOI 10.3389/fncir.2010.00018
+   Atasoy D, 2008, J NEUROSCI, V28, P10151, DOI 10.1523/JNEUROSCI.2432-08.2008
+   Atluri PP, 1996, J NEUROSCI, V16, P5661
+   Banke TG, 2006, J NEUROSCI, V26, P11720, DOI 10.1523/JNEUROSCI.2887-06.2006
+   Bao JP, 1998, J NEUROSCI, V18, P8740
+   Bucurenciu I, 2008, NEURON, V57, P536, DOI 10.1016/j.neuron.2007.12.026
+   Bucurenciu I, 2010, NAT NEUROSCI, V13, P19, DOI 10.1038/nn.2461
+   Eggermann E, 2012, NAT REV NEUROSCI, V13, P7, DOI 10.1038/nrn3125
+   Emptage NJ, 2001, NEURON, V29, P197, DOI 10.1016/S0896-6273(01)00190-8
+   Ermolyuk YS, 2012, PLOS BIOL, V10, DOI 10.1371/journal.pbio.1001396
+   Gaffield MA, 2006, NAT PROTOC, V1, P2916, DOI 10.1038/nprot.2006.476
+   GEPPERT M, 1994, CELL, V79, P717, DOI 10.1016/0092-8674(94)90556-8
+   Goswami SP, 2012, J NEUROSCI, V32, P14294, DOI 10.1523/JNEUROSCI.6104-11.2012
+   Groffen AJ, 2010, SCIENCE, V327, P1614, DOI 10.1126/science.1183765
+   Holderith N, 2012, NAT NEUROSCI, V15, P988, DOI 10.1038/nn.3137
+   Hoppa MB, 2012, NATURE, V486, P122, DOI 10.1038/nature11033
+   Kaeser PS, 2011, CELL, V144, P282, DOI 10.1016/j.cell.2010.12.029
+   Li LY, 2007, J NEUROSCI, V27, P13420, DOI 10.1523/JNEUROSCI.1709-07.2007
+   Lou XL, 2005, NATURE, V435, P497, DOI 10.1038/nature03568
+   Matveev V, 2011, BRAIN RES, V1398, P126, DOI 10.1016/j.brainres.2011.05.011
+   McKinney RA, 1999, NAT NEUROSCI, V2, P44, DOI 10.1038/4548
+   Meinrenken CJ, 2002, J NEUROSCI, V22, P1648, DOI 10.1523/JNEUROSCI.22-05-01648.2002
+   MINTZ IM, 1995, NEURON, V15, P675, DOI 10.1016/0896-6273(95)90155-8
+   Mochida S, 2003, P NATL ACAD SCI USA, V100, P2819, DOI 10.1073/pnas.262787699
+   Murthy VN, 2001, NEURON, V32, P673, DOI 10.1016/S0896-6273(01)00500-1
+   Murthy VN, 1999, NAT NEUROSCI, V2, P503
+   Neher E, 1998, CELL CALCIUM, V24, P345, DOI 10.1016/S0143-4160(98)90058-6
+   Novak P, 2013, NEURON, V79, P1067, DOI 10.1016/j.neuron.2013.07.012
+   Ohana O, 1998, J PHYSIOL-LONDON, V513, P135, DOI 10.1111/j.1469-7793.1998.135by.x
+   Pavlov I, 2011, NAT COMMUN, V2, DOI 10.1038/ncomms1202
+   REGEHR WG, 1995, BIOPHYS J, V68, P2156, DOI 10.1016/S0006-3495(95)80398-X
+   Reid CA, 1998, J NEUROSCI, V18, P2849
+   Rozov A, 2001, J PHYSIOL-LONDON, V531, P807, DOI 10.1111/j.1469-7793.2001.0807h.x
+   Ruiz A, 2010, NAT NEUROSCI, V13, P431, DOI 10.1038/nn.2512
+   SCANZIANI M, 1992, NEURON, V9, P919, DOI 10.1016/0896-6273(92)90244-8
+   Schikorski T, 1997, J NEUROSCI, V17, P5858
+   Scimemi A, 2012, J NEUROSCI, V32, P18157, DOI 10.1523/JNEUROSCI.3827-12.2012
+   Sharma G, 2003, NEURON, V38, P929, DOI 10.1016/S0896-6273(03)00322-2
+   Sheng JS, 2012, NAT NEUROSCI, V15, P998, DOI 10.1038/nn.3129
+   Shepherd GMG, 1998, J NEUROSCI, V18, P8300
+   Siksou L, 2007, J NEUROSCI, V27, P6868, DOI 10.1523/JNEUROSCI.1773-07.2007
+   SOONG TW, 1993, SCIENCE, V260, P1133, DOI 10.1126/science.8388125
+   Sutton MA, 2004, SCIENCE, V304, P1979, DOI 10.1126/science.1096202
+   Vyleta NP, 2011, J NEUROSCI, V31, P4593, DOI 10.1523/JNEUROSCI.6398-10.2011
+   Weber AM, 2010, NAT NEUROSCI, V13, P1348, DOI 10.1038/nn.2657
+   WILLIAMS C, 2012, AM POETRY REV, V41, P15
+   WU LG, 1994, J NEUROSCI, V14, P5613
+   Xu BS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0019052
+   Xu J, 2009, NAT NEUROSCI, V12, P759, DOI 10.1038/nn.2320
+NR 50
+TC 84
+Z9 84
+U1 1
+U2 18
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 1097-6256
+EI 1546-1726
+J9 NAT NEUROSCI
+JI Nat. Neurosci.
+PD DEC
+PY 2013
+VL 16
+IS 12
+BP 1754
+EP 1763
+DI 10.1038/nn.3563
+PG 10
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 257VV
+UT WOS:000327416800013
+PM 24185424
+OA Green Accepted
+DA 2021-06-04
+ER
+
+PT J
+AU Iglesias, C
+   Meunier, C
+   Manuel, M
+   Timofeeva, Y
+   Delestree, N
+   Zytnicki, D
+AF Iglesias, Caroline
+   Meunier, Claude
+   Manuel, Marin
+   Timofeeva, Yulia
+   Delestree, Nicolas
+   Zytnicki, Daniel
+TI Mixed Mode Oscillations in Mouse Spinal Motoneurons Arise from a Low
+   Excitability State
+SO JOURNAL OF NEUROSCIENCE
+LA English
+DT Article
+ID SPIKE-FREQUENCY ADAPTATION; MESENCEPHALIC-V NEURONS; DIFFERENTIAL
+   ELECTRORESPONSIVENESS; SUBTHRESHOLD OSCILLATIONS; SYSTEMATIC VARIATIONS;
+   MEMBRANE-PROPERTIES; LUMBAR MOTONEURONS; PLATEAU POTENTIALS;
+   ALPHA-MOTONEURONS; DYNAMIC CLAMP
+AB We explain the mechanism that elicits the mixed mode oscillations (MMOs) and the subprimary firing range that we recently discovered in mouse spinal motoneurons. In this firing regime, high-frequency subthreshold oscillations appear a few millivolts below the spike voltage threshold and precede the firing of a full blown spike. By combining intracellular recordings in vivo (including dynamic clamp experiments) in mouse spinal motoneurons and modeling, we show that the subthreshold oscillations are due to the spike currents and that MMOs appear each time the membrane is in a low excitability state. Slow kinetic processes largely contribute to this low excitability. The clockwise hysteresis in the I-F relationship, frequently observed in mouse motoneurons, is mainly due to a substantial slow inactivation of the sodium current. As a consequence, less sodium current is available for spiking. This explains why a large subprimary range with numerous oscillations is present in motoneurons displaying a clockwise hysteresis. In motoneurons whose I-F curve exhibits a counterclockwise hysteresis, it is likely that the slow inactivation operates on a shorter time scale and is substantially reduced by the de-inactivating effect of the afterhyperpolarization (AHP) current, thus resulting in a more excitable state. This accounts for the short subprimary firing range with only a few MMOs seen in these motoneurons. Our study reveals a new role for the AHP current that sets the membrane excitability level by counteracting the slow inactivation of the sodium current and allows or precludes the appearance of MMOs.
+C1 [Iglesias, Caroline; Meunier, Claude; Delestree, Nicolas; Zytnicki, Daniel] Univ Paris 05, Lab Neurophys & Physiol, Inst Neurosci & Cognit, Ctr Natl Rech Sci UMR 8119, F-75006 Paris, France.
+   [Manuel, Marin] Northwestern Univ, Feinberg Sch Med, Dept Physiol, Chicago, IL 60611 USA.
+   [Timofeeva, Yulia] Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+   [Timofeeva, Yulia] Univ Warwick, Ctr Complex Sci, Coventry CV4 7AL, W Midlands, England.
+RP Zytnicki, D (corresponding author), Univ Paris 05, Lab Neurophys & Physiol, Inst Neurosci & Cognit, 45 Rue St Peres, F-75270 Paris 06, France.
+EM Daniel.Zytnicki@parisdescartes.fr
+RI Timofeeva, Yulia/Z-1618-2019
+OI Timofeeva, Yulia/0000-0003-3178-7830; Manuel, Marin/0000-0002-5344-3572;
+   Zytnicki, Daniel/0000-0002-0431-9604
+FU Association Francaise contre les Myopathies (AFM)Association Francaise
+   contre les Myopathies [14229]; Centre National de la Recherche
+   Scientifique (CNRS)Centre National de la Recherche Scientifique (CNRS);
+   Fondation pour la Recherche MedicaleFondation pour la Recherche
+   Medicale; Milton Safenowitz; Research Councils of the United Kingdom;
+   Paris Descartes University; Engineering and Physical Sciences Research
+   CouncilUK Research & Innovation (UKRI)Engineering & Physical Sciences
+   Research Council (EPSRC) [EP/F011857/1] Funding Source: researchfish
+FX This work was supported by the Association Francaise contre les
+   Myopathies (AFM, MNM2 2009 Grant 14229) and by the Programme
+   interdisciplinaire Neuroinformatique [Centre National de la Recherche
+   Scientifique (CNRS)]. C. I. is supported by a postdoctoral fellowship
+   from the CNRS. M. M. is supported by the Fondation pour la Recherche
+   Medicale and the Milton Safenowitz Post-Doctoral Fellowship for ALS
+   Research (ALS Association). Y.T. is supported by a Research Councils of
+   the United Kingdom fellowship and N.D. by a fellowship from the Paris
+   Descartes University. We are indebted to A. Goulian for taking care of
+   animals, and to H. Suaudeau for script programming.
+CR ABBOTT LF, 1990, LECT NOTES PHYS, V368, P5
+   Alaburda A, 2002, J PHYSIOL-LONDON, V540, P875
+   ALONSO A, 1993, J NEUROPHYSIOL, V70, P128
+   Bennett DJ, 2001, J NEUROPHYSIOL, V86, P1955
+   Boehmer G, 2000, J PHYSIOL-LONDON, V526, P115, DOI 10.1111/j.1469-7793.2000.t01-1-00115.x
+   Bracci E, 2003, J PHYSIOL-LONDON, V549, P121, DOI 10.1113/jphysiol.2003.040857
+   Brizzi L, 2004, J PHYSIOL-LONDON, V558, P671, DOI 10.1113/jphysiol.2003.059964
+   Button DC, 2006, J PHYSIOL-LONDON, V573, P663, DOI 10.1113/jphysiol.2006.107292
+   Carlin KP, 2000, EUR J NEUROSCI, V12, P1635, DOI 10.1046/j.1460-9568.2000.00055.x
+   CONWAY BA, 1988, J PHYSIOL-LONDON, V405, P369, DOI 10.1113/jphysiol.1988.sp017337
+   Ermentrout G, 2002, SIMULATING ANAL ANIM
+   Guertin PA, 1999, NEUROSCIENCE, V88, P353, DOI 10.1016/S0306-4522(98)00371-6
+   GUTFREUND Y, 1995, J PHYSIOL-LONDON, V483, P621, DOI 10.1113/jphysiol.1995.sp020611
+   Hamm TM, 2010, J NEUROPHYSIOL, V104, P1566, DOI 10.1152/jn.00380.2010
+   Harish O., 2009, Society for Neuroscience Abstract Viewer and Itinerary Planner, V39
+   Harish O, 2010, J NEUROPHYSIOL, V103, P2684, DOI 10.1152/jn.01016.2009
+   Hille B., 2001, IONIC CHANNELS EXCIT
+   HOUNSGAARD J, 1988, J PHYSIOL-LONDON, V405, P345, DOI 10.1113/jphysiol.1988.sp017336
+   HOUNSGAARD J, 1989, J PHYSIOL-LONDON, V414, P265, DOI 10.1113/jphysiol.1989.sp017687
+   KERNELL D, 1982, EXP BRAIN RES, V46, P191
+   KLINK R, 1993, J NEUROPHYSIOL, V70, P144
+   Krupa M, 2008, CHAOS, V18, DOI 10.1063/1.2779859
+   Lee RH, 1998, J NEUROPHYSIOL, V80, P572
+   Lee RH, 1998, J NEUROPHYSIOL, V80, P583
+   LLINAS RR, 1991, P NATL ACAD SCI USA, V88, P897, DOI 10.1073/pnas.88.3.897
+   Manuel M, 2007, J NEUROSCI, V27, P12977, DOI 10.1523/JNEUROSCI.3299-07.2007
+   Manuel M, 2006, J PHYSIOL-LONDON, V576, P873, DOI 10.1113/jphysiol.2006.117002
+   Manuel M, 2009, J NEUROSCI, V29, P11246, DOI 10.1523/JNEUROSCI.3260-09.2009
+   Meehan CF, 2010, J NEUROPHYSIOL, V103, P2599, DOI 10.1152/jn.00668.2009
+   Meunier C, 2005, NEURAL COMPUT, V17, P2383, DOI 10.1162/0899766054796923
+   Miles GB, 2005, J PHYSIOL-LONDON, V566, P519, DOI 10.1113/jphysiol.2005.086033
+   Nguyen QT, 2004, J PHYSIOL-LONDON, V556, P203, DOI 10.1113/jphysiol.2003.060087
+   Pan ZM, 2006, J NEUROSCI, V26, P2599, DOI 10.1523/JNEUROSCI.4314-05.2006
+   Powers RK, 1999, J PHYSIOL-PARIS, V93, P101, DOI 10.1016/S0928-4257(99)80141-7
+   Raikov I, 2004, J NEUROSCI METH, V132, P109, DOI 10.1016/j.jneumeth.2003.08.002
+   Rubin J, 2008, CHAOS, V18, DOI 10.1063/1.2789564
+   Sekerli M, 2004, IEEE T BIO-MED ENG, V51, P1665, DOI 10.1109/TBME.2004.827531
+   Turkin VV, 2010, J NEUROPHYSIOL, V104, P1549, DOI 10.1152/jn.00379.2010
+   Ulbricht W, 2005, PHYSIOL REV, V85, P1271, DOI 10.1152/physrev.00024.2004
+   Wartenberg HC, 1999, BRIT J ANAESTH, V82, P74
+   Wu NP, 2005, J NEUROPHYSIOL, V93, P2710, DOI 10.1152/jn.00636.2004
+   Wu NP, 2001, J NEUROSCI, V21, P3729, DOI 10.1523/JNEUROSCI.21-11-03729.2001
+NR 42
+TC 32
+Z9 32
+U1 0
+U2 5
+PU SOC NEUROSCIENCE
+PI WASHINGTON
+PA 11 DUPONT CIRCLE, NW, STE 500, WASHINGTON, DC 20036 USA
+SN 0270-6474
+EI 1529-2401
+J9 J NEUROSCI
+JI J. Neurosci.
+PD APR 13
+PY 2011
+VL 31
+IS 15
+BP 5829
+EP 5840
+DI 10.1523/JNEUROSCI.6363-10.2011
+PG 12
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 749MR
+UT WOS:000289472400032
+PM 21490224
+OA Green Published, Bronze
+DA 2021-06-04
+ER
+
+PT J
+AU Harris, J
+   Timofeeva, Y
+AF Harris, Jamie
+   Timofeeva, Yulia
+TI Intercellular calcium waves in the fire-diffuse-fire framework: Green's
+   function for gap-junctional coupling
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID CA2+ WAVES; TRAVELING-WAVES; PROPAGATION; MODEL; ASTROCYTES;
+   COMMUNICATION; OSCILLATIONS; MECHANISMS; RECEPTORS; DENDRITES
+AB Calcium is a crucial component in a plethora of cellular processes involved in cell birth, life, and death. Intercellular calcium waves that can spread through multiple cells provide one form of cellular communication mechanism between various parts of cell tissues. Here we introduce a simple, yet biophysically realistic model for the propagation of intercellular calcium waves based on the fire-diffuse-fire type model for calcium dynamics. Calcium release sites are considered to be discretely distributed along individual linear cells that are connected by gap junctions and a solution of this model can be found in terms of the Green's function for this system. We develop the "sum-over-trips" formalism that takes into account the boundary conditions at gap junctions providing a generalization of the original sum-over-trips approach for constructing the response function for branched neural dendrites. We obtain the exact solution of the Green's function in the Laplace (frequency) domain for an infinite array of cells and show that this Green's function can be well approximated by its truncated version. This allows us to obtain an analytical traveling wave solution for an intercellular calcium wave and analyze the speed of solitary wave propagation as a function of physiologically important system parameters. Periodic and irregular traveling waves can be also sustained by the proposed model.
+C1 [Timofeeva, Yulia] Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+   [Timofeeva, Yulia] Univ Warwick, Ctr Complex Sci, Coventry CV4 7AL, W Midlands, England.
+   [Harris, Jamie] Univ Warwick, Complex Sci Doctoral Training Ctr, Coventry CV4 7AL, W Midlands, England.
+RP Timofeeva, Y (corresponding author), Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+EM jamie.harris@warwick.ac.uk; y.timofeeva@warwick.ac.uk
+RI Timofeeva, Yulia/Z-1618-2019
+OI Timofeeva, Yulia/0000-0003-3178-7830
+FU EPSRCUK Research & Innovation (UKRI)Engineering & Physical Sciences
+   Research Council (EPSRC); RCUKUK Research & Innovation (UKRI)
+FX J.H. would like to acknowledge the Complexity Science Doctoral Training
+   Centre at the University of Warwick along with the funding provided by
+   the EPSRC. Y.T. would like to acknowledge the support provided by the
+   RCUK.
+CR ABBOTT LF, 1991, BIOL CYBERN, V66, P49, DOI 10.1007/BF00196452
+   ALLBRITTON NL, 1992, SCIENCE, V258, P1812, DOI 10.1126/science.1465619
+   Berridge MJ, 2007, N COMP BIOC, V41, P485
+   Berridge MJ, 2003, NAT REV MOL CELL BIO, V4, P517, DOI 10.1038/nrm1155
+   BOITANO S, 1992, SCIENCE, V258, P292, DOI 10.1126/science.1411526
+   Charles AC, 1996, MOL CELL NEUROSCI, V7, P337, DOI 10.1006/mcne.1996.0025
+   CHRIST GJ, 1992, AM J PHYSIOL, V263, pC373
+   Coombes S, 2007, BIOL CYBERN, V97, P137, DOI 10.1007/s00422-007-0161-5
+   Coombes S, 2004, PROG BIOPHYS MOL BIO, V85, P197, DOI 10.1016/j.pbiomolbio.2004.01.015
+   Coombes S, 2001, B MATH BIOL, V63, P1, DOI 10.1006/bulm.2000.0193
+   CORNELLBELL AH, 1990, SCIENCE, V247, P470, DOI 10.1126/science.1967852
+   DAndrea P, 1996, CELL CALCIUM, V20, P389, DOI 10.1016/S0143-4160(96)90001-9
+   Dawson SP, 1999, P NATL ACAD SCI USA, V96, P6060, DOI 10.1073/pnas.96.11.6060
+   FINKBEINER S, 1992, NEURON, V8, P1101, DOI 10.1016/0896-6273(92)90131-V
+   Frame MK, 1997, EXP CELL RES, V230, P197, DOI 10.1006/excr.1996.3409
+   Giaume C, 1998, GLIA, V24, P50, DOI 10.1002/(SICI)1098-1136(199809)24:1<50::AID-GLIA6>3.3.CO;2-Z
+   Hassinger TD, 1996, P NATL ACAD SCI USA, V93, P13268, DOI 10.1073/pnas.93.23.13268
+   Hofer T, 1999, BIOPHYS J, V77, P1244, DOI 10.1016/S0006-3495(99)76976-6
+   Hofer T, 2002, J NEUROSCI, V22, P4850, DOI 10.1523/JNEUROSCI.22-12-04850.2002
+   Hofer T, 2001, BIOPHYS J, V80, P75
+   Keizer J, 1998, BIOPHYS J, V75, P595, DOI 10.1016/S0006-3495(98)77550-2
+   Levenberg K., 1944, Quarterly of Applied Mathematics, V2, P164
+   MALHO R, 1998, SCIENCES, V353, P1463
+   MARQUARDT DW, 1963, J SOC IND APPL MATH, V11, P431, DOI 10.1137/0111030
+   NAGEL K, 1993, PHYSICA A, V199, P254, DOI 10.1016/0378-4371(93)90006-P
+   Pearson JE, 1998, PHYSICA A, V257, P141, DOI 10.1016/S0378-4371(98)00136-8
+   ROBBGASPERS LD, 1995, J BIOL CHEM, V270, P8102, DOI 10.1074/jbc.270.14.8102
+   SAEZ JC, 1989, P NATL ACAD SCI USA, V86, P2708, DOI 10.1073/pnas.86.8.2708
+   SANDERSON MJ, 1990, CELL REGUL, V1, P585
+   SANDERSON MJ, 1994, MOL CELL ENDOCRINOL, V98, P173, DOI 10.1016/0303-7207(94)90136-8
+   Scemes E, 2006, GLIA, V54, P716, DOI 10.1002/glia.20374
+   Sneyd J, 2003, LECT NOTES PHYS, V623, P179
+   SNEYD J, 1995, FASEB J, V9, P1463
+   SNEYD J, 1994, AM J PHYSIOL, V266, pC293
+   SNEYD J, 1995, AM J PHYSIOL-CELL PH, V268, pC1537
+   Stout CE, 2002, J BIOL CHEM, V277, P10482, DOI 10.1074/jbc.M109902200
+   Thul R, 2008, J MATH BIOL, V56, P435, DOI 10.1007/s00285-007-0123-5
+   Thul R, 2009, PHYSICA D, V238, P2142, DOI 10.1016/j.physd.2009.08.011
+   Timofeeva Y, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.062901
+   Timofeeva Y, 2003, J MATH BIOL, V47, P249, DOI 10.1007/s00285-003-0205-y
+   Timofeeva Y, 2010, PHYSICA D, V239, P494, DOI 10.1016/j.physd.2010.01.004
+   TIMOFEEVA Y, 2003, THESIS LOUGHBOROUGH
+   Vieira MD, 2000, PHYS REV E, V61, pR6056, DOI 10.1103/PhysRevE.61.R6056
+   Wilkins M, 1998, J THEOR BIOL, V191, P299, DOI 10.1006/jtbi.1997.0585
+   Yule DI, 1996, AM J PHYSIOL-CELL PH, V271, pC1285
+   Zimmermann B, 1999, EMBO J, V18, P3222, DOI 10.1093/emboj/18.12.3222
+NR 46
+TC 11
+Z9 11
+U1 0
+U2 2
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+EI 1550-2376
+J9 PHYS REV E
+JI Phys. Rev. E
+PD NOV 5
+PY 2010
+VL 82
+IS 5
+AR 051910
+DI 10.1103/PhysRevE.82.051910
+PN 1
+PG 12
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 675QT
+UT WOS:000283846200004
+PM 21230503
+DA 2021-06-04
+ER
+
+PT J
+AU Coombes, S
+   Timofeeva, Y
+AF Coombes, S.
+   Timofeeva, Y.
+TI Special issue: Mathematical neuroscience
+SO PHYSICA D-NONLINEAR PHENOMENA
+LA English
+DT Editorial Material
+ID DYNAMICS; MODEL; OSCILLATIONS; NETWORKS
+C1 [Coombes, S.] Univ Nottingham, Sch Math Sci, Nottingham NG7 2RD, England.
+   [Timofeeva, Y.] Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+RP Coombes, S (corresponding author), Univ Nottingham, Sch Math Sci, Nottingham NG7 2RD, England.
+EM stephen.coombes@nottingham.ac.uk; y.timofeeva@warwick.ac.uk
+RI Coombes, Stephen/J-1859-2012; Coombes, Stephen/O-2321-2019; Timofeeva,
+   Yulia/Z-1618-2019
+OI Coombes, Stephen/0000-0003-1610-7665; Coombes,
+   Stephen/0000-0003-1610-7665; Timofeeva, Yulia/0000-0003-3178-7830
+FU Engineering and Physical Sciences Research CouncilUK Research &
+   Innovation (UKRI)Engineering & Physical Sciences Research Council
+   (EPSRC) [EP/F011857/1] Funding Source: researchfish
+CR Ahn S, 2010, PHYSICA D, V239, P515, DOI 10.1016/j.physd.2009.12.011
+   AMARI AI, 2000, METHODS INFORM GEOME
+   Ashwin P, 2010, PHYSICA D, V239, P529, DOI 10.1016/j.physd.2009.06.018
+   Brons M, 2008, CHAOS, V18, DOI 10.1063/1.2903177
+   Coombes S, 2007, CONTEMP MATH, V440, P123
+   Coombes S, 2007, J MATH BIOL, V54, P305, DOI 10.1007/s00285-006-0066-2
+   Coombes S, 2004, SIAM J APPL DYN SYST, V3, P574, DOI 10.1137/040605953
+   Coombes S, 2005, BURSTING: THE GENESIS OF RHYTHM IN THE NERVOUS SYSTEM, pV
+   COOMBES S, 2010, NEUROIMAGE IN PRESS
+   Curtu R, 2010, PHYSICA D, V239, P504, DOI 10.1016/j.physd.2009.12.010
+   Elvin AJ, 2010, PHYSICA D, V239, P537, DOI 10.1016/j.physd.2009.08.004
+   Ermentrout B, 1998, REP PROG PHYS, V61, P353, DOI 10.1088/0034-4885/61/4/002
+   Ermentrout GB, 2010, FDN MATH NEUROSCIENC
+   Faye G, 2010, PHYSICA D, V239, P561, DOI 10.1016/j.physd.2010.01.010
+   Hoppensteadt F.C., 1997, WEAKLY CONNECTED NEU
+   Kilpatrick ZP, 2010, PHYSICA D, V239, P547, DOI 10.1016/j.physd.2009.06.003
+   Koch C., 1994, LARGE SCALE NEURONAL
+   Laing Carlo, 2010, STOCHASTIC METHODS N
+   Mortimer D, 2010, PHYSICA D, V239, P477, DOI 10.1016/j.physd.2009.09.009
+   Nowacki J, 2010, PHYSICA D, V239, P485, DOI 10.1016/j.physd.2009.11.014
+   Rabinovich MI, 2006, REV MOD PHYS, V78, P1213, DOI 10.1103/RevModPhys.78.1213
+   Stepan G, 2009, PHILOS T R SOC A, V367, P1059, DOI 10.1098/rsta.2008.0279
+   Timofeeva Y, 2010, PHYSICA D, V239, P494, DOI 10.1016/j.physd.2010.01.004
+   Venkov NA, 2007, PHYSICA D, V232, P1, DOI 10.1016/j.physd.2007.04.011
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-2789
+EI 1872-8022
+J9 PHYSICA D
+JI Physica D
+PD MAY 1
+PY 2010
+VL 239
+IS 9
+BP 475
+EP 476
+DI 10.1016/j.physd.2010.01.003
+PG 2
+WC Mathematics, Applied; Physics, Fluids & Plasmas; Physics,
+   Multidisciplinary; Physics, Mathematical
+SC Mathematics; Physics
+GA 583GQ
+UT WOS:000276662100001
+DA 2021-06-04
+ER
+
+PT J
+AU Timofeeva, Y
+AF Timofeeva, Y.
+TI Travelling waves in a model of quasi-active dendrites with active spines
+SO PHYSICA D-NONLINEAR PHENOMENA
+LA English
+DT Article
+DE Dendritic spines; Quasi-active (resonant) membrane; Active conductances;
+   Travelling waves
+ID DIFFUSE-SPIKE FRAMEWORK; CA1 PYRAMIDAL NEURONS; CABLE; MEMBRANE;
+   PROPAGATION; PLASTICITY; DYNAMICS; CELLS; SPEED
+AB Dendrites, the major components of neurons, have many different types of branching structures and are involved in receiving and integrating thousands of synaptic inputs from other neurons. Dendritic spines with excitable channels can be present in large densities on the dendrites of many cells. The recently proposed Spike-Diffuse-Spike (SDS) model that is described by a system of point hot-spots (with an integrate-and-fire process) embedded throughout a passive tree has been shown to provide a reasonable caricature of a dendritic tree with supra-threshold dynamics. Interestingly, real dendrites equipped with voltage-gated ion channels can exhibit not only supra-threshold responses, but also subthreshold dynamics. This sub-threshold resonant-like oscillatory behaviour has already been shown to be adequately described by a quasi-active membrane. In this paper we introduce a mathematical model of a branched dendritic tree based upon a generalisation of the SDS model where the active spines are assumed to be distributed along a quasi-active dendritic structure. We demonstrate how solitary and periodic travelling wave solutions can be constructed for both continuous and discrete spine distributions. In both cases the speed of such waves is calculated as a function of system parameters. We also illustrate that the model can be naturally generalised to an arbitrary branched dendritic geometry whilst remaining computationally simple. The spatio-temporal patterns of neuronal activity are shown to be significantly influenced by the properties of the quasi-active membrane. Active (sub- and supra-threshold) properties of dendrites are known to vary considerably among cell types and animal species, and this theoretical framework can be used in studying the combined role of complex dendritic morphologies and active conductances in rich neuronal dynamics. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Timofeeva, Y.] Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+   [Timofeeva, Y.] Univ Warwick, Ctr Complex Sci, Coventry CV4 7AL, W Midlands, England.
+RP Timofeeva, Y (corresponding author), Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+EM y.timofeeva@warwick.ac.uk
+RI Timofeeva, Yulia/Z-1618-2019
+OI Timofeeva, Yulia/0000-0003-3178-7830
+CR ABBOTT LF, 1991, BIOL CYBERN, V66, P49, DOI 10.1007/BF00196452
+   Alvarez VA, 2007, ANNU REV NEUROSCI, V30, P79, DOI 10.1146/annurev.neuro.30.051606.094222
+   BAER SM, 1991, J NEUROPHYSIOL, V65, P874
+   Bhatt DH, 2009, ANNU REV PHYSIOL, V71, P261, DOI 10.1146/annurev.physiol.010908.163140
+   Bloodgood BL, 2005, SCIENCE, V310, P866, DOI 10.1126/science.1114816
+   Bressloff PC, 1997, INT J MOD PHYS B, V11, P2343, DOI 10.1142/S0217979297001209
+   BROWN TH, 1990, ANNU REV NEUROSCI, V13, P475, DOI 10.1146/annurev.ne.13.030190.002355
+   Cajal R.S., 1995, HISTOLOGY NERVOUS SY
+   Cook EP, 2007, J NEUROPHYSIOL, V98, P2943, DOI 10.1152/jn.00414.2007
+   Coombes S, 2007, BIOL CYBERN, V97, P137, DOI 10.1007/s00422-007-0161-5
+   Coombes S, 2000, SIAM J APPL MATH, V61, P432, DOI 10.1137/S0036139999356600
+   Coombes S, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.028102
+   Coombes S, 2001, MATH BIOSCI, V170, P155, DOI 10.1016/S0025-5564(00)00070-5
+   Coombes S, 2001, B MATH BIOL, V63, P1, DOI 10.1006/bulm.2000.0193
+   Cox SJ, 2001, J COMPUT NEUROSCI, V11, P95, DOI 10.1023/A:1012858230117
+   HODGKIN AL, 1952, J PHYSIOL-LONDON, V117, P500, DOI 10.1113/jphysiol.1952.sp004764
+   JAMES MP, 1995, ANNU REV NEUROSCI, V67
+   Johnston D, 2008, TRENDS NEUROSCI, V31, P309, DOI 10.1016/j.tins.2008.03.004
+   Katz Y, 2009, NEURON, V63, P171, DOI 10.1016/j.neuron.2009.06.023
+   KOCH C, 1984, BIOL CYBERN, V50, P15, DOI 10.1007/BF00317936
+   Larkum ME, 1999, NATURE, V398, P338, DOI 10.1038/18686
+   Lord GJ, 2002, PHYSICA D, V161, P1, DOI 10.1016/S0167-2789(01)00339-6
+   Magee JC, 2000, NAT NEUROSCI, V3, P895, DOI 10.1038/78800
+   MAURO A, 1970, J GEN PHYSIOL, V55, P497, DOI 10.1085/jgp.55.4.497
+   Mel BW, 1998, J NEUROSCI, V18, P4325
+   MILLER JP, 1985, BRAIN RES, V325, P325, DOI 10.1016/0006-8993(85)90333-6
+   MILLER RN, 1981, BIOPHYS J, V34, P227, DOI 10.1016/S0006-3495(81)84847-3
+   Narayanan R, 2007, NEURON, V56, P1061, DOI 10.1016/j.neuron.2007.10.033
+   Scott A. C., 2002, NEUROSCIENCE MATH PR
+   Segal M, 2005, NAT REV NEUROSCI, V6, P277, DOI 10.1038/nrn1649
+   Segev I, 1998, TRENDS NEUROSCI, V21, P453, DOI 10.1016/S0166-2236(98)01327-7
+   Shepherd GM, 1996, J NEUROPHYSIOL, V75, P2197
+   Spruston N, 2008, DENDRITES
+   Svoboda K, 1996, SCIENCE, V272, P716, DOI 10.1126/science.272.5262.716
+   Timofeeva Y, 2008, J COMPUT NEUROSCI, V25, P228, DOI 10.1007/s10827-008-0075-9
+   Timofeeva Y, 2006, NEUROCOMPUTING, V69, P1058, DOI 10.1016/j.neucom.2005.12.045
+   Timofeeva Y, 2006, J COMPUT NEUROSCI, V21, P293, DOI 10.1007/s10827-006-8776-4
+   Tsay D, 2004, TRENDS NEUROSCI, V27, P77, DOI 10.1016/j.tins.2003.11.008
+   Ulrich D, 2002, J NEUROPHYSIOL, V87, P2753, DOI 10.1152/jn.2002.87.6.2753
+   Williams SR, 2002, J PHYSIOL-LONDON, V539, P469, DOI 10.1113/jphysiol.2001.013136
+NR 40
+TC 10
+Z9 10
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-2789
+J9 PHYSICA D
+JI Physica D
+PD MAY 1
+PY 2010
+VL 239
+IS 9
+BP 494
+EP 503
+DI 10.1016/j.physd.2010.01.004
+PG 10
+WC Mathematics, Applied; Physics, Fluids & Plasmas; Physics,
+   Multidisciplinary; Physics, Mathematical
+SC Mathematics; Physics
+GA 583GQ
+UT WOS:000276662100004
+DA 2021-06-04
+ER
+
+PT J
+AU Timofeeva, Y
+   Cox, SJ
+   Coombes, S
+   Josic, K
+AF Timofeeva, Y.
+   Cox, S. J.
+   Coombes, S.
+   Josic, K.
+TI Democratization in a passive dendritic tree: an analytical investigation
+SO JOURNAL OF COMPUTATIONAL NEUROSCIENCE
+LA English
+DT Article
+DE dendritic democracy; cable equation; shunts
+ID DIFFUSE-SPIKE FRAMEWORK; CA1 PYRAMIDAL NEURONS; ACTIVE SPINES;
+   POTENTIALS; AMPLITUDE; DEMOCRACY; LOCATION; NUMBER; CELLS; CABLE
+AB One way to achieve amplification of distal synaptic inputs on a dendritic tree is to scale the amplitude and/or duration of the synaptic conductance with its distance from the soma. This is an example of what is often referred to as "dendritic democracy". Although well studied experimentally, to date this phenomenon has not been thoroughly explored from a mathematical perspective. In this paper we adopt a passive model of a dendritic tree with distributed excitatory synaptic conductances and analyze a number of key measures of democracy. In particular, via moment methods we derive laws for the transport, from synapse to soma, of strength, characteristic time, and dispersion. These laws lead immediately to synaptic scalings that overcome attenuation with distance. We follow this with a Neumann approximation of Green's representation that readily produces the synaptic scaling that democratizes the peak somatic voltage response. Results are obtained for both idealized geometries and for the more realistic geometry of a rat CA1 pyramidal cell. For each measure of democratization we produce and contrast the synaptic scaling associated with treating the synapse as either a conductance change or a current injection. We find that our respective scalings agree up to a critical distance from the soma and we reveal how this critical distance decreases with decreasing branch radius.
+C1 [Timofeeva, Y.] Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+   [Cox, S. J.] Rice Univ, Dept Computat & Appl Math, Houston, TX 77005 USA.
+   [Coombes, S.] Univ Nottingham, Sch Math Sci, Nottingham NG7 2RD, England.
+   [Josic, K.] Univ Houston, Dept Math, Houston, TX 77204 USA.
+RP Timofeeva, Y (corresponding author), Univ Warwick, Dept Comp Sci, Coventry CV4 7AL, W Midlands, England.
+EM y.timofeeva@warwick.ac.uk
+RI Coombes, Stephen/J-1859-2012; Coombes, Stephen/O-2321-2019; Timofeeva,
+   Yulia/Z-1618-2019
+OI Coombes, Stephen/0000-0003-1610-7665; Coombes,
+   Stephen/0000-0003-1610-7665; Timofeeva, Yulia/0000-0003-3178-7830
+FU GR/S60914/01; EPSRCUK Research & Innovation (UKRI)Engineering & Physical
+   Sciences Research Council (EPSRC) [GR/R76219]; NSFNational Science
+   Foundation (NSF) [DMS-0604429]; Advanced Research Program/Advanced
+   Technology Program grant; Engineering and Physical Sciences Research
+   CouncilUK Research & Innovation (UKRI)Engineering & Physical Sciences
+   Research Council (EPSRC) [GR/S60914/01] Funding Source: researchfish
+FX The work in this paper is supported through Engineering and Physical
+   Sciences Research Council (EPSRC) Grant No. GR/S60914/01. S Coombes
+   would also like to acknowledge ongoing support from the EPSRC through
+   the award of an Advanced Research Fellowship, Grant No. GR/R76219. K
+   Josi ' c was supported by NSF grant DMS-0604429, and an Advanced
+   Research Program/Advanced Technology Program grant.
+CR ABBOTT LF, 1991, BIOL CYBERN, V66, P49, DOI 10.1007/BF00196452
+   AgmonSnir H, 1995, BIOPHYS J, V69, P1633, DOI 10.1016/S0006-3495(95)80038-X
+   ANDERSEN P, 1980, J PHYSIOL-LONDON, V307, P273, DOI 10.1113/jphysiol.1980.sp013435
+   Andrasfalvy BK, 2001, J NEUROSCI, V21, P9151, DOI 10.1523/JNEUROSCI.21-23-09151.2001
+   Bressloff PC, 1997, INT J MOD PHYS B, V11, P2343, DOI 10.1142/S0217979297001209
+   BURKE W, 1957, J PHYSIOL-LONDON, V135, P511, DOI 10.1113/jphysiol.1957.sp005726
+   Carnevale NT, 2006, NEURON BOOK
+   Coombes S, 2007, BIOL CYBERN, V97, P137, DOI 10.1007/s00422-007-0161-5
+   Cuntz H, 2007, THEOR BIOL MED MODEL, V4, DOI 10.1186/1742-4682-4-21
+   DESCHUTTER E, 1994, P NATL ACAD SCI USA, V91, P4736, DOI 10.1073/pnas.91.11.4736
+   FATT P, 1951, J PHYSIOL-LONDON, V115, P320, DOI 10.1113/jphysiol.1951.sp004675
+   Golding NL, 2005, J PHYSIOL-LONDON, V568, P69, DOI 10.1113/jphysiol.2005.086793
+   Hausser M, 2001, CURR BIOL, V11, pR10, DOI 10.1016/S0960-9822(00)00034-8
+   IANSEK R, 1973, J PHYSIOL-LONDON, V234, P665, DOI 10.1113/jphysiol.1973.sp010366
+   Jack J. J. B., 1975, ELECT CURRENT FLOW E
+   JACK JJB, 1981, J PHYSIOL-LONDON, V321, P65, DOI 10.1113/jphysiol.1981.sp013972
+   KOCH C, 1999, BIOPHYSICS COMPUTATI
+   London M, 2001, NAT NEUROSCI, V4, P853, DOI 10.1038/nn0901-853
+   Magee JC, 2000, NAT NEUROSCI, V3, P895, DOI 10.1038/78800
+   Magee JC, 2000, NAT REV NEUROSCI, V1, P181, DOI 10.1038/35044552
+   Migliore M, 2005, J NEUROPHYSIOL, V94, P4145, DOI 10.1152/jn.00521.2005
+   Nicholson DA, 2006, NEURON, V50, P431, DOI 10.1016/j.neuron.2006.03.022
+   RALL W, 1998, METHODS NEURONAL MOD, P27
+   Rall W., 1964, NEURAL THEORY MODELI
+   Rumsey CC, 2004, J NEUROPHYSIOL, V91, P2273, DOI 10.1152/jn.00900.2003
+   Rumsey CC, 2006, J NEUROPHYSIOL, V96, P2307, DOI 10.1152/jn.00149.2006
+   Timofeeva Y, 2006, NEUROCOMPUTING, V69, P1058, DOI 10.1016/j.neucom.2005.12.045
+   Timofeeva Y, 2006, J COMPUT NEUROSCI, V21, P293, DOI 10.1007/s10827-006-8776-4
+   Tuckwell H. C., 1988, CAMBRIDGE STUDIES MA, V1
+   Tuckwell H. C., 1988, CAMBRIDGE STUDIES MA, V2
+NR 30
+TC 10
+Z9 10
+U1 0
+U2 3
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0929-5313
+J9 J COMPUT NEUROSCI
+JI J. Comput. Neurosci.
+PD OCT
+PY 2008
+VL 25
+IS 2
+BP 228
+EP 244
+DI 10.1007/s10827-008-0075-9
+PG 17
+WC Mathematical & Computational Biology; Neurosciences
+SC Mathematical & Computational Biology; Neurosciences & Neurology
+GA 343GP
+UT WOS:000258841600002
+PM 18253822
+OA Green Accepted
+DA 2021-06-04
+ER
+
+PT J
+AU Coombes, S
+   Timofeeva, Y
+   Svensson, CM
+   Lord, GJ
+   Josic, K
+   Cox, SJ
+   Colbert, CM
+AF Coombes, S.
+   Timofeeva, Y.
+   Svensson, C.-M.
+   Lord, G. J.
+   Josic, K.
+   Cox, S. J.
+   Colbert, C. M.
+TI Branching dendrites with resonant membrane: a "sum-over-trips" approach
+SO BIOLOGICAL CYBERNETICS
+LA English
+DT Article
+DE dendrites; quasi-active membrane; '' sum-over-trips ''; cable theory
+ID DIFFUSE-SPIKE FRAMEWORK; SHUNT CABLE MODEL; NEOCORTICAL NEURONS;
+   ARBITRARY GEOMETRY; ACTIVE PROPERTIES; PYRAMIDAL CELLS; PASSIVE NEURONS;
+   SPINES; SINGLE; OUTPUT
+AB Dendrites form the major components of neurons. They are complex branching structures that receive and process thousands of synaptic inputs from other neurons. It is well known that dendritic morphology plays an important role in the function of dendrites. Another important contribution to the response characteristics of a single neuron comes from the intrinsic resonant properties of dendritic membrane. In this paper we combine the effects of dendritic branching and resonant membrane dynamics by generalising the '' sum-over-trips '' approach (Abbott et al. in Biol Cybernetics 66, 49-60 1991). To illustrate how this formalism can shed light on the role of architecture and resonances in determining neuronal output we consider dual recording and reconstruction data from a rat CA1 hippocampal pyramidal cell. Specifically we explore the way in which an I (h) current contributes to a voltage overshoot at the soma.
+C1 Univ Nottingham, Dept Math Sci, Nottingham NG7 2RD, England.
+   Heriot Watt Univ, Dept Math, Edinburgh EH14 4AS, Midlothian, Scotland.
+   Univ Houston, Dept Math, Houston, TX 77204 USA.
+   Rice Univ, Houston, TX 77005 USA.
+   Univ Houston, Houston, TX 77204 USA.
+RP Coombes, S (corresponding author), Univ Nottingham, Dept Math Sci, Nottingham NG7 2RD, England.
+EM stephen.coombes@nottingham.ac.uk
+RI Timofeeva, Yulia/Z-1618-2019; Coombes, Stephen/O-2321-2019; Coombes,
+   Stephen/J-1859-2012
+OI Timofeeva, Yulia/0000-0003-3178-7830; Coombes,
+   Stephen/0000-0003-1610-7665; Coombes, Stephen/0000-0003-1610-7665; Lord,
+   Gabriel/0000-0003-2152-1553; Svensson, Carl-Magnus/0000-0002-9723-9063
+FU Engineering and Physical Sciences Research CouncilUK Research &
+   Innovation (UKRI)Engineering & Physical Sciences Research Council
+   (EPSRC) [GR/S60914/01, GR/S60921/01] Funding Source: researchfish;
+   NATIONAL INSTITUTE ON AGINGUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   on Aging (NIA) [R01AG027577] Funding Source: NIH RePORTER; NIA NIH
+   HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [R01 AG027577] Funding Source: Medline
+CR ABBOTT LF, 1992, PHYSICA A, V185, P343, DOI 10.1016/0378-4371(92)90474-5
+   ABBOTT LF, 1991, BIOL CYBERN, V66, P49, DOI 10.1007/BF00196452
+   BUTZ EG, 1974, BIOPHYS J, V14, P661, DOI 10.1016/S0006-3495(74)85943-6
+   CAO BJ, 1993, BIOPHYS J, V64, P303, DOI 10.1016/S0006-3495(93)81370-5
+   Carnevale NT, 2006, NEURON BOOK
+   Cox SJ, 2004, MATH BIOSCI, V190, P9, DOI 10.1016/j.mbs.2004.02.007
+   Cox SJ, 2001, J COMPUT NEUROSCI, V11, P95, DOI 10.1023/A:1012858230117
+   EVANS JD, 1995, MATH BIOSCI, V125, P1, DOI 10.1016/0025-5564(94)00018-U
+   EVANS JD, 1992, BIOPHYS J, V63, P350, DOI 10.1016/S0006-3495(92)81631-4
+   Hausser M, 2001, CURR BIOL, V11, pR10, DOI 10.1016/S0960-9822(00)00034-8
+   HUDSPETH AJ, 1988, J PHYSIOL-LONDON, V400, P275, DOI 10.1113/jphysiol.1988.sp017120
+   Hutcheon B, 2000, TRENDS NEUROSCI, V23, P216, DOI 10.1016/S0166-2236(00)01547-2
+   Hutcheon B, 1996, J NEUROPHYSIOL, V76, P698
+   Johnston D, 1996, ANNU REV NEUROSCI, V19, P165, DOI 10.1146/annurev.ne.19.030196.001121
+   KOCH C, 1984, BIOL CYBERN, V50, P15, DOI 10.1007/BF00317936
+   KOCH C, 1985, J NEUROSCI METH, V12, P303, DOI 10.1016/0165-0270(85)90015-9
+   Kole MHP, 2006, J NEUROSCI, V26, P1677, DOI 10.1523/JNEUROSCI.3664-05.2006
+   Li XS, 2006, J COMPUT NEUROSCI, V21, P191, DOI 10.1007/s10827-006-8797-z
+   London M, 2005, ANNU REV NEUROSCI, V28, P503, DOI 10.1146/annurev.neuro.28.061604.135703
+   London M, 1999, J NEUROSCI, V19, P8219
+   Magee JC, 1998, J NEUROSCI, V18, P7613
+   Mainen ZF, 1996, NATURE, V382, P363, DOI 10.1038/382363a0
+   MAURO A, 1970, J GEN PHYSIOL, V55, P497, DOI 10.1085/jgp.55.4.497
+   Migliore M, 2005, J NEUROPHYSIOL, V94, P4145, DOI 10.1152/jn.00521.2005
+   Pape HC, 1996, ANNU REV PHYSIOL, V58, P299, DOI 10.1146/annurev.physiol.58.1.299
+   SCOTT A, 2002, NEUROSCI MATH PRIMER
+   Segev I, 2000, SCIENCE, V290, P744, DOI 10.1126/science.290.5492.744
+   Segev I, 1995, THEORETICAL FDN DEND
+   Stuart G, 1999, DENDRITES
+   Timofeeva Y, 2006, NEUROCOMPUTING, V69, P1058, DOI 10.1016/j.neucom.2005.12.045
+   Timofeeva Y, 2006, J COMPUT NEUROSCI, V21, P293, DOI 10.1007/s10827-006-8776-4
+   TUCKWELL HC, 1988, INTRO THEORETIAL NEU, V1
+   van Ooyen A, 2002, NETWORK-COMP NEURAL, V13, P311, DOI 10.1088/0954-898X/13/3/304
+NR 33
+TC 26
+Z9 26
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 0340-1200
+J9 BIOL CYBERN
+JI Biol. Cybern.
+PD AUG
+PY 2007
+VL 97
+IS 2
+BP 137
+EP 149
+DI 10.1007/s00422-007-0161-5
+PG 13
+WC Computer Science, Cybernetics; Neurosciences
+SC Computer Science; Neurosciences & Neurology
+GA 198JC
+UT WOS:000248623400003
+PM 17534649
+OA Green Accepted
+DA 2021-06-04
+ER
+
+EF
